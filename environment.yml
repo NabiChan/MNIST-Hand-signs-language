@@ -1,4 +1,0 @@
-name: myenv
-channels:
-  - defaults
-prefix: C:\Users\phong.nt\.conda\envs\myenv
